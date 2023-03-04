@@ -5,7 +5,7 @@
 
 <br>
 
-<h3>📓 Nesse projeto foram aborados fundamentos como:</h3>
+<h3>📓 Nesse projeto foram abordados fundamentos como:</h3>
 
 <li>HTTP</li>
 <li>Streams</li>
