@@ -12,7 +12,7 @@
 <li>Crypto</li>
 <li>File System</li>
 <li>Requests</li>
-<li>Respondes</li>
+<li>Responses</li>
 <li>Headers</li>
 <li>Status code</li>
 <li>Route</li>
@@ -25,7 +25,7 @@
 <li>Criar usuário</li>
 <li>Listar usuários</li>
 <li>Atualizar usuário</li>
-<li>Deletar usuários</li>
+<li>Deletar usuário</li>
 
 <br>
 
