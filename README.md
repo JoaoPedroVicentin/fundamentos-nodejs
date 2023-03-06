@@ -3,8 +3,6 @@
 <h2>API RESTful desenvolvida com foco nos fundamentos da tecnologia Node sem uso de frameworks ou bibliotecas externas.
 </h2>
 
-<br>
-
 <h3>📓 Nesse projeto foram abordados fundamentos como:</h3>
 
 <li>HTTP</li>
